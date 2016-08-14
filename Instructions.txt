@@ -1,0 +1,19 @@
+This game was built using the Cocos2D-X Version 3.2 game engine. To download Cocos, visit http://www.cocos2d-x.org/download 
+
+To play: 
+
+1.Download binaries folder from dropbox at: https://www.dropbox.com/sh/pnhe9br3swvfchw/AAAHovss6Gq5UiFxJQ2GjzHUa?dl=0
+2.Unzip
+3.Find executable in folder, run the game
+4.Play
+
+To view source code 
+
+You need: Visual Studio 2013, Cocos2D-X V3.2
+
+1.Make a new cocos projcet,  tutorial here: http://www.cocos2d-x.org/wiki/How_to_Start_A_New_Cocos2D-X_Game
+2.Replace the new project's "classes" folder with the classes folder included here
+3.Download Resources folder at: https://www.dropbox.com/sh/pnhe9br3swvfchw/AAAHovss6Gq5UiFxJQ2GjzHUa?dl=0
+4.Replace old resources folder with new downloaded resources folder
+5.Launch debugger, and build solution
+6.Play
